@@ -8,6 +8,9 @@ Project Support4health
 
 - You will find the project in navbar folder
 
+# Contribution
+[resources](https://www.youtube.com/watch?v=LOWjWRy_Kks)
+
 # PART TWO 
 
 # Getting started with flask
