@@ -14,9 +14,8 @@ Project Support4health
 # PART TWO 
 
 # Getting started with flask
-```sh
-https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework
-```
+
+[Start here](https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework)
 
 # Installation
 We'll need the following installed for this tutorial:<br >
